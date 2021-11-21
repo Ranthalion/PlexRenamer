@@ -1,0 +1,6 @@
+.idea
+plex
+*.gz
+*.db
+.vscode
+env

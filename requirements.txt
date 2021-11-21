@@ -1,0 +1,8 @@
+backports.entry-points-selectable==1.1.1
+distlib==0.3.3
+filelock==3.3.2
+platformdirs==2.4.0
+progressbar==2.5
+six==1.16.0
+Unidecode==1.3.2
+virtualenv==20.10.0
